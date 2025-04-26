@@ -10,4 +10,3 @@ To view the interactive prototype:
 
 1. Click the Figma link above.
 2. In the top-right corner, click the **"Present"** button.
-3. This will open the Figma prototype in a new tab where you can interact with the design as a user would.
